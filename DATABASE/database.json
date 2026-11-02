@@ -156,14 +156,25 @@
       "Bhargavi Walke",
       "Kalash Walke",
       "Megha Supare"
-    ]
+    ],
+    "30 OCT": {
+      "Aarya Walke": "16/20",
+      "Kalash Walke": "17/20",
+      "Megha Supare": "16/20",
+      "Bhargavi Walke": "16/20"
+    }
   },
   "ENGLISH 11:00 AM": {
     "Student_Name": [
       "Arya Mahajan",
       "Saurabh Dhote",
       "Arpit Giradkar"
-    ]
+    ],
+    "30 OCT": {
+      "Arya Mahajan": "29/30",
+      "Arpit Giradkar": "21/30",
+      "Saurabh Dhote": "Absent"
+    }
   },
   "IOT JULY BATCH": {
     "Student_Name": [
